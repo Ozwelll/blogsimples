@@ -1,2 +1,2 @@
-# blogsimples
-Blog simples em php
+# Blog Simples
+Blog simples em PHP
